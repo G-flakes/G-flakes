@@ -1,4 +1,4 @@
-# Hi there, I'm AJ 👋
+# Hi there, I'm Tennyson 👋
  An Engineer becoming a software developer, am passionate about building software that solves real problems.
  Currently learning full-stack development while building projects with modern web technologies.
 
