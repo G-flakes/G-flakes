@@ -10,21 +10,22 @@
 
 ## 🛠 Tech Stack
 
-Frontend
+**Frontend**
 - Next.js
 - React
 - TypeScript
 - Tailwind CSS
 
-Backend
+**Backend**
 - Node.js
 - PostgreSQL/MongoDB
 - Drizzle ORM
 
-Tools
+**Tools**
 - Git
 - GitHub
 - VS Code
+- Claude
 
 ## 📫 Connect
 
