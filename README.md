@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm AJ 👋
+ An Engineer becoming a software developer, am passionate about building software that solves real problems.
+ Currently learning full-stack development while building projects with modern web technologies.
 
-<!--
-**G-flakes/G-flakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Currently Working On
 
-Here are some ideas to get you started:
+- 📓 A Notes App with Next.js & TypeScript
+- 🌐 Expanding my full-stack development skills
+- 🤖 Exploring AI-powered applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+Frontend
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+Backend
+- Node.js
+- PostgreSQL/MongoDB
+- Drizzle ORM
+
+Tools
+- Git
+- GitHub
+- VS Code
+
+## 📫 Connect
+
+- GitHub
+- LinkedIn
+- Instagram
